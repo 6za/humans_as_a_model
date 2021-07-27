@@ -16,13 +16,16 @@ Assumptions:
 - Actors are humans and they have their output or production measured based on subjective, but quantitative factor(a number on a scale). 
 - Actors have several internal/external rhythms that can influence their outputs values
 
-# Sample of Actors
+# Type of Actors
 
 On the samples we will explore the idea: 
 - Positive output: Deliveries or results that add value to a group goals;
 - Negative output: Deliveries or results that that do not add value to the group goals and as time is finite, can be saw as "lost chance" of work towards the team goals. 
 > As the metric is subjective, the goal is to reflect "Achievements" and "Fails" measures. 
 
+
+Actors don't need to be member on a team to produce outputs for the working group/team. 
+i.e.: Collaborators on a open-source project. 
 
 ## A Productive Actor: 
 - In a low resolution observation, its output grows with time.
@@ -61,7 +64,7 @@ Several factors can influence this in realistic terms:
 - Limited visibility with team goals
 
 
-## A Unproductive Actor: 
+## An Unproductive Actor: 
 
 - In a low resolution observation, its output decays with time. 
 
@@ -84,3 +87,30 @@ Several factors can influence this in realistic terms:
 - Lack engagement with team goals
 - Lack visibility with team goals
 - Disconnection with teams goals or updates
+
+
+## A Noise Actor:
+
+- In a low resolution observation its not possible to model or predict its behavior. 
+
+No charts are available, as it behaves as a random distribution even the regular rhythms(cicles) may not be observable. 
+
+
+Several factors can influence this in realistic terms: 
+- Several externalities may prevent continuous focus 
+- Personalities traits that pursue only-novelty paths
+- Lack of discipline 
+- limited set of common protocols of engagement and communication 
+- Some kind of mental wilness 
+- Lack of incentives to produce collaboration
+- Lack engagement with team goals
+- Lack visibility with team goals
+
+
+
+# Actors and Teams
+
+Exploring how the actors and the teams output are connected. 
+
+...
+
